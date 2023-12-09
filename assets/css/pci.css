@@ -272,9 +272,9 @@ label {
   		position: absolute;
 		left: 50%;
 		top: 50%;
-		transform: translate(-45%, -45%);
+		transform: translate(-40%, -45%);
 		height:auto;
-		width: 67%;
+		width: 75%;
 		display: block;
 		background-color: transparent;
 		border-style: none;

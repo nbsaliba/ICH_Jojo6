@@ -272,10 +272,11 @@ label {
   		position: absolute;
 		left: 50%;
 		top: 50%;
-		transform: translate(-40%, -45%);
+		transform: translate(-50%, -50%);
 		height:auto;
-		width: 75%;
-		display: block;
+		width: 265px;
+		padding:2px;
+		padding-top:4px;
 		background-color: transparent;
 		border-style: none;
 		border-width: thin;

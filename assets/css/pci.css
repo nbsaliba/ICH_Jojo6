@@ -269,8 +269,13 @@ label {
 }
 
 .logo-div {
-  		position: relative;
-  		left: 5%;
+  		position: absolute;
+		left: 50%;
+		top: 50%;
+		transform: translate(-45%, -45%);
+		height:auto;
+		width: 67%;
+		display: block;
 		background-color: transparent;
 		border-style: none;
 		border-width: thin;

@@ -270,7 +270,7 @@ label {
 
 .logo-div {
   		position: absolute;
-		left: 60px;
+		left: 5.5em;
 		top: 50%;
 		transform: translate(0, -50%);
 		height:auto;
